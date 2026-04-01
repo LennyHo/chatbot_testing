@@ -1,0 +1,4 @@
+flask
+requests
+python-dotenv
+# Add platform-specific SDKs as needed (e.g., rasa, dialogflow, botbuilder-core)
